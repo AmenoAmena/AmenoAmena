@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AmenoAmena
-- 👀 I’m interested in 2d game developing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ardacavusoglu666@gmail.com
