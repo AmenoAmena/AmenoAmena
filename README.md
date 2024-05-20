@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmenoAmena
 - I am using django to make web apps
 - 💞️ Data scraping and python scripting is also my skills
-- Learning on java and javascript
+- Learning java and javascript
 - 📫 How to reach me ardacavusoglu666@gmail.com
 
 <!---
